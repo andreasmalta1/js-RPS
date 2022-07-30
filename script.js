@@ -26,7 +26,7 @@ function getResult(playerChoice, computerChoice) {
   }
 
 }
-#
+
 function showResult(score, playerChoice, computerChoice) {
   const result = document.getElementById('result')
   const scoreDiv = document.getElementById('player-score')
